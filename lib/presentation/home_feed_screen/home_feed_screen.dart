@@ -5,7 +5,6 @@ import 'package:short_video_comp/presentation/theme/app_theme.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../core/app_export.dart';
-import '../../theme/app_theme.dart';
 import '../widgets/custom_bottom_bar.dart';
 import '../widgets/custom_tab_bar.dart';
 import './widgets/comment_bottom_sheet_widget.dart';
